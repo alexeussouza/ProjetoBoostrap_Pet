@@ -5,6 +5,7 @@ Site institucional responsivo desenvolvido com HTML5, CSS3 e Bootstrap 5, voltad
 Proporcionar uma vitrine online para a Loja ABC, destacando seus principais serviços de forma visualmente atraente e responsiva.
 
 🧰 Tecnologias Utilizadas
+
 HTML5
 
 CSS3
